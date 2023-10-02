@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e7f37962-1522-4e93-b10c-173eab43c893" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/bin/unmodifiable_set.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/double_linked_queue.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/queue.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/stack.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,24 +55,24 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Dart Command Line App.unmodifiable_set.dart">
-    <configuration name="comparable.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/bin/comparable.dart" />
-      <option name="workingDirectory" value="$PROJECT_DIR$" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Dart Command Line App.double_linked_queue.dart">
     <configuration name="comparator.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
       <option name="filePath" value="$PROJECT_DIR$/bin/comparator.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="hash_set.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/bin/hash_set.dart" />
+    <configuration name="double_linked_queue.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/bin/double_linked_queue.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="splay_tree_set.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/bin/splay_tree_set.dart" />
+    <configuration name="queue.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/bin/queue.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="stack.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/bin/stack.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
@@ -81,11 +83,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Dart Command Line App.double_linked_queue.dart" />
+        <item itemvalue="Dart Command Line App.stack.dart" />
+        <item itemvalue="Dart Command Line App.queue.dart" />
         <item itemvalue="Dart Command Line App.unmodifiable_set.dart" />
         <item itemvalue="Dart Command Line App.comparator.dart" />
-        <item itemvalue="Dart Command Line App.comparable.dart" />
-        <item itemvalue="Dart Command Line App.splay_tree_set.dart" />
-        <item itemvalue="Dart Command Line App.hash_set.dart" />
       </list>
     </recent_temporary>
   </component>
@@ -98,7 +100,7 @@
       <option name="presentableId" value="Default" />
       <updated>1696078945977</updated>
       <workItem from="1696078947253" duration="27000" />
-      <workItem from="1696078982968" duration="11151000" />
+      <workItem from="1696078982968" duration="12636000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -132,7 +134,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696177785027</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="update">
+      <option name="closed" value="true" />
+      <created>1696261886488</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1696261886488</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
