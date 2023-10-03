@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e7f37962-1522-4e93-b10c-173eab43c893" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/bin/iterable_properties.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/list_method.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,12 +53,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Dart Command Line App.iterable_properties.dart">
-    <configuration name="check_method.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/bin/check_method.dart" />
-      <option name="workingDirectory" value="$PROJECT_DIR$" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Dart Command Line App.list_method.dart">
     <configuration name="convert_method.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
       <option name="filePath" value="$PROJECT_DIR$/bin/convert_method.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$" />
@@ -74,6 +69,11 @@
       <option name="workingDirectory" value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
+    <configuration name="list_method.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/bin/list_method.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
     <configuration name="transform_method.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
       <option name="filePath" value="$PROJECT_DIR$/bin/transform_method.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$" />
@@ -81,11 +81,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Dart Command Line App.list_method.dart" />
         <item itemvalue="Dart Command Line App.iterable_properties.dart" />
         <item itemvalue="Dart Command Line App.convert_method.dart" />
         <item itemvalue="Dart Command Line App.transform_method.dart" />
         <item itemvalue="Dart Command Line App.filter_method.dart" />
-        <item itemvalue="Dart Command Line App.check_method.dart" />
       </list>
     </recent_temporary>
   </component>
@@ -98,7 +98,7 @@
       <option name="presentableId" value="Default" />
       <updated>1696078945977</updated>
       <workItem from="1696078947253" duration="27000" />
-      <workItem from="1696078982968" duration="16386000" />
+      <workItem from="1696078982968" duration="16655000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -188,7 +188,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696352542477</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="update">
+      <option name="closed" value="true" />
+      <created>1696352944828</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1696352944828</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
