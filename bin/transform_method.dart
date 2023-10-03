@@ -57,9 +57,9 @@ void main(List<String> arguments) {
 
   // example join()
   var names2 = ['Agung', 'Danu', 'Ardi', 'Ricki']; // list of names
-  var namesAsString = names2.join(', '); // names as string
+  var namesAsString = names2.join('+ '); // names as string
 
-  print(namesAsString); // print namesAsString
+  print('example join $namesAsString'); // print namesAsString
 
   print(''); // print new line
 
