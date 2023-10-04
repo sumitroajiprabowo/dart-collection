@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e7f37962-1522-4e93-b10c-173eab43c893" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/bin/map.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/map_entry.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/hash_map.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,9 +53,9 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Dart Command Line App.map_entry.dart">
-    <configuration name="iterable_properties.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/bin/iterable_properties.dart" />
+  <component name="RunManager" selected="Dart Command Line App.hash_map.dart">
+    <configuration name="hash_map.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/bin/hash_map.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
@@ -82,11 +81,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Dart Command Line App.hash_map.dart" />
         <item itemvalue="Dart Command Line App.map_entry.dart" />
         <item itemvalue="Dart Command Line App.map.dart" />
         <item itemvalue="Dart Command Line App.set_method.dart" />
         <item itemvalue="Dart Command Line App.list_method.dart" />
-        <item itemvalue="Dart Command Line App.iterable_properties.dart" />
       </list>
     </recent_temporary>
   </component>
@@ -99,7 +98,7 @@
       <option name="presentableId" value="Default" />
       <updated>1696078945977</updated>
       <workItem from="1696078947253" duration="27000" />
-      <workItem from="1696078982968" duration="17990000" />
+      <workItem from="1696078982968" duration="18275000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -213,7 +212,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696429523238</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="update">
+      <option name="closed" value="true" />
+      <created>1696430024904</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1696430024904</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
